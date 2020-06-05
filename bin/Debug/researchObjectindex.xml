@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+  <ProjectInfo>
+    <ID>0</ID>
+    <Name>researchObject1</Name>
+  </ProjectInfo>
+  <ProjectInfo>
+    <ID>3</ID>
+    <Name>researchObject2</Name>
+  </ProjectInfo>
+  <ProjectInfo>
+    <ID>6</ID>
+    <Name>researchObject3</Name>
+  </ProjectInfo>
+  <ProjectInfo>
+    <ID>9</ID>
+    <Name>researchObject4</Name>
+  </ProjectInfo>
+</Table>

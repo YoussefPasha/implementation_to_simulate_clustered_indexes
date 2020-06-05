@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+  <ProjectInfo>
+    <ID>1</ID>
+    <Name>Hank</Name>
+    <city>London</city>
+    <Country>england</Country>
+  </ProjectInfo>
+  <ProjectInfo>
+    <ID>2</ID>
+    <Name>Walt</Name>
+    <city>Manchester</city>
+    <Country>england</Country>
+  </ProjectInfo>
+  <ProjectInfo>
+    <ID>3</ID>
+    <Name>junior</Name>
+    <city>Oxford</city>
+    <Country>england</Country>
+  </ProjectInfo>
+</Table>
